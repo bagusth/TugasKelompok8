@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#D81B60</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorStartRed">#141e30</color>
+    <color name="colorEndRed">#243b55</color>
+    <color name="koneng">#DFBB15</color>
+    <color name="colorGraylight">#8D5656</color>
+    <color name="colorehh">#DFBB15</color>
+</resources>
